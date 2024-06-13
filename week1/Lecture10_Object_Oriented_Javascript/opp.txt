@@ -1,0 +1,13 @@
+Object: It is a unique entity that contains some properties and methods.
+
+1. Object Literal
+2. Object Constructor
+3. Object.create()
+
+
+Classes : Classes are blueprints of an object.
+
+
+Abstraction: Its mean displaying only the essential information and hiding the details.
+
+Encapsulation: The process of wrapping properties and function in single unit is called Encapsulation.
